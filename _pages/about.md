@@ -61,7 +61,7 @@ Shaojie Min#, **Shaobin Wang#**, Yaxiao Luo, Min Gao, Qingyuan Gong*, Yu Xiao, Y
 
 ---
 
-Towards the Predictability of IPFS Nodes’ Session Time Using Machine Learning.
+Towards the Predictability of IPFS Nodes’ Session Time Using Machine Learning.  
 Dan Zhuo, Jiawei Tang, Yang Chen*, **Shaobin Wang**, Xin Wang.  
 ***Proc. of Turing Award Celebration Conference (TURC'23), Poster, Wuhan, China, July 2023.***  
 [Detail]((https://dl.acm.org/doi/10.1145/3603165.3607397)  )
