@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Yuke Ma"
+title                    : "Shaobin Wang"
 description              : "A graduate student currently studying in Fundan university in Shanghai."
-repository               : "RayeRen/acad-homepage.github.io"
+repository               : "shaobinwang12/shaobinwang12.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,14 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Yuke Ma"
+  name             : "Shaobin Wang"
   avatar           : "images/me.jpg"
   bio              : "Fudan University"
   location         : "Shanghai, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=nK10stMAAAAJ"
-  email            : "ykma22@m.fudan.edu.cn"
+  googlescholar    : 
+  email            : "sbwang23@m.fudan.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "myk12"
+  github           : "shaobinwang12"
   google_plus      :
   keybase          :
   instagram        :
