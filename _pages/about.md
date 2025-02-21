@@ -85,6 +85,8 @@ Social Assistant is a WeChat mini program designed to help elderly residents in 
 - **Backend**: Node.js, Express, MongoDB  
 - **Other**: Python (for exporting data to Excel), Multer (for file uploads)  
 
+---
+
 ### Intelligent Mine Inspection Solution - Project Leader (March 2021 - June 2021)
 
 **Project Description**:    
@@ -100,6 +102,8 @@ This project consists of components such as STM32, Raspberry Pi, robotic arms, a
 **Tech Stack**:  
 - **Programming Languages**: Python  
 - **Machine Learning**: PyTorch, YOLOv5  
+
+---
 
 # 🎓 Education
 
