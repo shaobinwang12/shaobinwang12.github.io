@@ -70,7 +70,7 @@ Dan Zhuo, Jiawei Tang, Yang Chen*, **Shaobin Wang**, Xin Wang.
 
 # 🛠️ Projects
 
-### Social Assistant（社造助理） - WeChat Mini Program (2023 - Present)
+### Community Building Assistant（社造助理） - WeChat Mini Program (2023 - Present)
 
 **Project Description**:    
 Social Assistant is a WeChat mini program designed to help elderly residents in communities by allowing them to initiate help requests. Community staff and volunteers can view and respond to these requests, providing assistance. The program also allows for the recording of these activities, helping to build a supportive community.  
