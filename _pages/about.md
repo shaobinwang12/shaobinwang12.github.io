@@ -56,13 +56,13 @@ Since September 2023, I have been involved in research at the School of Computer
 # 📄 Publications
 
 FediLive: A Framework for Collecting and Preprocessing Snapshots of Decentralized Online Social Networks.  
-Shaojie Min#, **Shaobin Wang#**, Yaxiao Luo, Min Gao, Qingyuan Gong*, Yu Xiao, Yang Chen*.  
+Shaojie Min#, **Shaobin Wang#**, Yaxiao Luo, Min Gao, Qingyuan Gong\*, Yu Xiao, Yang Chen\*.  
 ***To appear: Proc. of the Web Conference (WWW’25), Resource Track, Sydney, Australia, Apr.-May 2025.***  
 
 ---
 
 Towards the Predictability of IPFS Nodes’ Session Time Using Machine Learning.  
-Dan Zhuo, Jiawei Tang, Yang Chen*, **Shaobin Wang**, Xin Wang.  
+Dan Zhuo, Jiawei Tang, Yang Chen\*, **Shaobin Wang**, Xin Wang.  
 ***Proc. of Turing Award Celebration Conference (TURC'23), Poster, Wuhan, China, July 2023.***  
 [Detail]((https://dl.acm.org/doi/10.1145/3603165.3607397)  )
 
