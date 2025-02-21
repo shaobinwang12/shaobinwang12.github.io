@@ -70,8 +70,6 @@ Dan Zhuo, Jiawei Tang, Yang Chen*, **Shaobin Wang**, Xin Wang.
 
 # 🛠️ Projects
 
-## Projects
-
 ### Social Assistant（社造助理） - WeChat Mini Program (2023 - Present)
 
 **Project Description**:    
