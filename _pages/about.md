@@ -49,7 +49,7 @@ redirect_from:
   <h2>Hi, I am Shaobin</h2>
 </div>
 
-I am currently pursuing my master's degree at [Fudan University](https://www.fudan.edu.cn/en/) under the supervision of Professor [Yang Chen](https://chenyang03.wordpress.com/). Prior to this, I earned my Bachelor's degree from the School of Cyberspace Security at [Zhengzhou University](https://english.zzu.edu.cn/) in 2023.
+I am currently pursuing my master's degree at [Fudan University](https://www.fudan.edu.cn/en/) under the supervision of Professor [Yang Chen](https://chenyang03.wordpress.com/). Prior to this, I earned my Bachelor's degree from the School of Cyber Science and Engineering at [Zhengzhou University](https://english.zzu.edu.cn/) in 2023.
 
 Since September 2023, I have been involved in research at the School of Computer Science at Fudan University, with a focus on network systems and social network.
 
@@ -85,11 +85,11 @@ Dan Zhuo, Jiawei Tang, Yang Chen*, **Shaobin Wang**, Xin Wang.
 - **Undergraduate Student of Internet of Things Engineering (Sep. 2019 - Jun. 2023)**
 
 <div style="display: flex; align-items: center;">
-    <img src="../images/Zhengzhou_University.png" alt="fdu" width="100" height="100" style="margin-right: 2ch;">
+    <img src="../images/zzulogo.pdf" alt="fdu" width="100" height="100" style="margin-right: 2ch;">
     <div>
         <blockquote>
             Zhengzhou University<br>
-            School of Cyberspace Security
+            School of Cyber Science and Engineering
         </blockquote>
     </div>
 </div>
