@@ -68,6 +68,41 @@ Dan Zhuo, Jiawei Tang, Yang Chen*, **Shaobin Wang**, Xin Wang.
 
 ---
 
+# 🛠️ Projects
+
+## Projects
+
+### Social Assistant（社造助理） - WeChat Mini Program (2023 - Present)
+
+**Project Description**:    
+Social Assistant is a WeChat mini program designed to help elderly residents in communities by allowing them to initiate help requests. Community staff and volunteers can view and respond to these requests, providing assistance. The program also allows for the recording of these activities, helping to build a supportive community.  
+
+**Responsibilities**:  
+- Developed the WeChat Mini Program for elderly residents to request help and for volunteers to respond.  
+- Designed the backend API using Node.js and MongoDB to manage user data, activity logs, and help requests.  
+- Built web-based tools for viewing, modifying, and exporting activity data.  
+
+**Tech Stack**:  
+- **Frontend**: WeChat Mini Program, HTML, CSS, JavaScript  
+- **Backend**: Node.js, Express, MongoDB  
+- **Other**: Python (for exporting data to Excel), Multer (for file uploads)  
+
+### Intelligent Mine Inspection Solution - Project Leader (March 2021 - June 2021)
+
+**Project Description**:    
+This project consists of components such as STM32, Raspberry Pi, robotic arms, and servos, and is designed to replace manual inspection in hazardous areas like mines. It deploys LoRa gateways for communication and detects whether workers are wearing safety helmets.  
+
+**Responsibilities**:  
+- Led the development of the safety helmet detection algorithm on the Raspberry Pi using YOLOv5 for training the dataset.  
+
+**Results**:  
+- Awarded 3rd place in the National Finals of the 2021 IoT Design Competition (Huawei Cup).  
+- Won 2nd place in the Central China Region of the 2021 Network Technology Challenge.  
+
+**Tech Stack**:  
+- **Programming Languages**: Python  
+- **Machine Learning**: PyTorch, YOLOv5  
+
 # 🎓 Education
 
 - **Graduate Student of Computer Science (Sep.2023 - now)**
@@ -85,7 +120,7 @@ Dan Zhuo, Jiawei Tang, Yang Chen*, **Shaobin Wang**, Xin Wang.
 - **Undergraduate Student of Internet of Things Engineering (Sep. 2019 - Jun. 2023)**
 
 <div style="display: flex; align-items: center;">
-    <img src="../images/zzulogo.pdf" alt="fdu" width="100" height="100" style="margin-right: 2ch;">
+    <img src="../images/zzulogo.png" alt="fdu" width="100" height="100" style="margin-right: 2ch;">
     <div>
         <blockquote>
             Zhengzhou University<br>
@@ -100,7 +135,5 @@ Dan Zhuo, Jiawei Tang, Yang Chen*, **Shaobin Wang**, Xin Wang.
 
 <ul>
   <li>Third Class Academic Scholarship, School of Cyberspace Security, Zhengzhou University, 2023</li>
-  <li>First Prize in North China Division & National Third Prize, National IoT Design Competition (Huawei Cup), 2020</li>
-  <li>Second Prize in North China Division, Network Technology Challenge, 2020</li>
   <li>Outstanding Cadre of the Communist Youth League, Zhengzhou University, 2020</li>
 </ul>
