@@ -80,11 +80,9 @@ Dan Zhuo, Jiawei Tang, Yang Chen\*, **Shaobin Wang**, Xin Wang.
 
 ---
 
-# 💼 Experience
+# 🛠️ Projects
 
 ### Meituan (美团) - Software Engineering Intern (May 2025 - Aug. 2025)
-
-# 🛠️ Projects
 
 ### Community Building Assistant（社造助理） - WeChat Mini Program (2023 - Present)
 
