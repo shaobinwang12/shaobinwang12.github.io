@@ -55,9 +55,21 @@ Since September 2023, I have been involved in research at the School of Computer
 
 # 📄 Publications
 
+Energy-Aware Collaborative Perception in HetVNETs: Balancing Accuracy and Sustainability.  
+Mengying Zhou, **Shaobin Wang**, Qiang Duan, Aaron Yi Ding, Xin Wang\*, Yang Chen\*.  
+To appear: IEEE Communications Magazine.
+
+---
+
+Understanding Cross-Platform Links in User Profiles: A Data-Driven Analysis on Mastodon.  
+Shaojie Min, **Shaobin Wang**, Yaxiao Luo, Qingyuan Gong\*, Yang Chen\*.  
+Proc. of the 10th China National Conference on Big Data and Social Computing (BDSC’25), Kunming, China, Aug. 2025.(Most Welcomed Paper Award)
+
+---
+
 FediLive: A Framework for Collecting and Preprocessing Snapshots of Decentralized Online Social Networks.  
 Shaojie Min#, **Shaobin Wang#**, Yaxiao Luo, Min Gao, Qingyuan Gong\*, Yu Xiao, Yang Chen\*.  
-***To appear: Proc. of the Web Conference (WWW’25), Resource Track, Sydney, Australia, Apr.-May 2025.***  
+***Proc. of the Web Conference (WWW’25), Resource Track, Sydney, Australia, Apr.-May 2025.***  
 
 ---
 
