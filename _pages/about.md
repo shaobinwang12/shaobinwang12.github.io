@@ -150,6 +150,6 @@ This project consists of components such as STM32, Raspberry Pi, robotic arms, a
 # 🏆 Honors and Awards
 
 <ul>
-  <li>Third Class Academic Scholarship, School of Cyber Science and Engineering, Zhengzhou University, 2023</li>
+  <li>Outstanding graduates of Fudan University, Fudan University, 2026</li>
   <li>Outstanding Cadre of the Communist Youth League, Zhengzhou University, 2020</li>
 </ul>
