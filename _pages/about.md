@@ -101,24 +101,6 @@ Social Assistant is a WeChat mini program designed to help elderly residents in 
 
 ---
 
-### Intelligent Mine Inspection Solution - Project Leader (March 2021 - June 2021)
-
-**Project Description**:    
-This project consists of components such as STM32, Raspberry Pi, robotic arms, and servos, and is designed to replace manual inspection in hazardous areas like mines. It deploys LoRa gateways for communication and detects whether workers are wearing safety helmets.  
-
-**Responsibilities**:  
-- Led the development of the safety helmet detection algorithm on the Raspberry Pi using YOLOv5 for training the dataset.  
-
-**Results**:  
-- Awarded 3rd place in the National Finals of the 2021 IoT Design Competition (Huawei Cup).  
-- Won 2nd place in the Central China Region of the 2021 Network Technology Challenge.  
-
-**Tech Stack**:  
-- **Programming Languages**: Python  
-- **Machine Learning**: PyTorch, YOLOv5  
-
----
-
 # 🎓 Education
 
 - **Graduate Student of Computer Science (Sep.2023 - now)**
