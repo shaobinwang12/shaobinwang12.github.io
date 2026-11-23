@@ -71,6 +71,25 @@ redirect_from:
     margin-bottom: .35rem;
     line-height: 1.4;
   }
+  .badge-row {
+    display: block;
+    margin: 8px 0 6px;
+  }
+  .badge {
+    display: inline-flex;
+    align-items: center;
+    font-size: .75rem;
+    line-height: 1.6;
+    padding: 3px 10px;
+    border-radius: 999px;
+    background: #fff3e0;
+    color: #b26a00;
+    border: 1px solid #ffcc80;
+    white-space: normal;
+    word-break: break-word;
+    max-width: 100%;
+    box-sizing: border-box;
+  }
   .paper-authors {
     color: #374151;
     font-size: .92rem;
@@ -81,26 +100,16 @@ redirect_from:
     color: var(--text-muted);
     font-size: .9rem;
   }
-  .badge {
-    display: inline-block;
-    font-size: .75rem;
-    padding: 2px 9px;
-    border-radius: 999px;
-    background: #fff3e0;
-    color: #b26a00;
-    border: 1px solid #ffcc80;
-    margin-right: 6px;
-    margin-bottom: 4px;
-  }
   .tag {
-    display: inline-block;
+    display: inline-flex;
+    align-items: center;
     font-size: .72rem;
-    padding: 1px 8px;
+    line-height: 1.6;
+    padding: 2px 9px;
     border-radius: 999px;
     background: #e0f2f1;
     color: #00695c;
-    margin-right: 6px;
-    margin-bottom: 4px;
+    margin-bottom: 6px;
   }
   .project-card {
     background: var(--bg-card);
@@ -161,19 +170,16 @@ redirect_from:
   <div class="hero-subtitle">M.S. in Computer Science · Fudan University</div>
 </div>
 
-<div class="intro">
-
-I received my master's degree from [Fudan University](https://www.fudan.edu.cn/en/) in 2026, where I was advised by Professor [Yang Chen](https://chenyang03.wordpress.com/). Prior to that, I earned my Bachelor's degree from the School of Cyber Science and Engineering at [Zhengzhou University](https://english.zzu.edu.cn/) in 2023.
-
-During my graduate studies at the School of Computer Science at Fudan University, I focused my research on network systems and social networks.
-
-</div>
+I received my master's degree from [Fudan University](https://www.fudan.edu.cn/en/) in 2026, where I was advised by Professor [Yang Chen](https://chenyang03.wordpress.com/). Prior to that, I earned my Bachelor's degree from the School of Cyber Science and Engineering at [Zhengzhou University](https://english.zzu.edu.cn/) in 2023. During my graduate studies at the School of Computer Science at Fudan University, I focused my research on network systems and social networks.
+{: .intro }
 
 # 📄 Publications
 
 <div class="paper-card">
   <div class="paper-title">When Deepfake Text Detectors Leave the Lab: Robust Detection Under Unsupervised Transductive Deployment Across Online Social Networks</div>
-  <div class="badge">🎖️ Artifact Badges: Available, Functional, Reproduced</div>
+  <div class="badge-row">
+    <span class="badge">🎖️ Artifact Badges: Available, Functional, Reproduced</span>
+  </div>
   <div class="paper-authors">Shaojie Min, Jiayin Xue, <strong>Shaobin Wang</strong>, Yaxiao Luo, Roy Ka-Wei Lee, Yupeng Li, Xinlei He, Qingyuan Gong*, Yang Chen*</div>
   <div class="paper-venue">To appear: 48th IEEE Symposium on Security and Privacy (S&amp;P'27)</div>
 </div>
