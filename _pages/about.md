@@ -111,7 +111,7 @@ redirect_from:
     color: #00695c;
     margin-bottom: 6px;
   }
-  .project-card {
+  .exp-card {
     background: var(--bg-card);
     border: 1px solid var(--border);
     border-left: 4px solid #ff8a65;
@@ -119,15 +119,27 @@ redirect_from:
     padding: 14px 18px;
     margin: 14px 0;
   }
-  .project-title {
+  .exp-header {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: baseline;
+    gap: 8px;
+    margin-bottom: .5rem;
+  }
+  .exp-company {
     font-weight: 700;
-    margin-bottom: .4rem;
+    font-size: 1.05rem;
     color: #111;
   }
-  .project-meta {
+  .exp-role {
+    color: #374151;
+    font-size: .95rem;
+  }
+  .exp-meta {
     color: var(--text-muted);
     font-size: .88rem;
-    margin-bottom: .5rem;
+    white-space: nowrap;
   }
   .edu-card {
     display: flex;
@@ -212,25 +224,22 @@ I received my master's degree from [Fudan University](https://www.fudan.edu.cn/e
 
 ---
 
-# 🛠️ Projects
+# 💼 Internship Experience
 
-<div class="project-card">
-  <div class="project-title">Community Building Assistant (社造助理) — WeChat Mini Program</div>
-  <div class="project-meta">2023 – Present</div>
-  <p><strong>Project Description:</strong><br>
-  Social Assistant is a WeChat mini program designed to help elderly residents in communities by allowing them to initiate help requests. Community staff and volunteers can view and respond to these requests, providing assistance. The program also allows for the recording of these activities, helping to build a supportive community.</p>
-  <p><strong>Responsibilities:</strong></p>
+<div class="exp-card">
+  <div class="exp-header">
+    <div>
+      <span class="exp-company">Meituan</span>
+      <span class="exp-role">— Backend Development Engineer Intern</span>
+    </div>
+    <span class="exp-meta">May 2025 – Aug. 2025</span>
+  </div>
   <ul>
-    <li>Developed the WeChat Mini Program for elderly residents to request help and for volunteers to respond.</li>
-    <li>Designed the backend API using Node.js and MongoDB to manage user data, activity logs, and help requests.</li>
-    <li>Built web-based tools for viewing, modifying, and exporting activity data.</li>
+    <li>Participated in the design and development of backend services, writing maintainable and tested code in a large-scale distributed system.</li>
+    <li>Collaborated with cross-functional teams to deliver features end-to-end, from requirement analysis and API design to online deployment.</li>
+    <li>Optimized service performance and reliability, including database query tuning and cache usage.</li>
   </ul>
-  <p><strong>Tech Stack:</strong></p>
-  <ul>
-    <li><strong>Frontend:</strong> WeChat Mini Program, HTML, CSS, JavaScript</li>
-    <li><strong>Backend:</strong> Node.js, Express, MongoDB</li>
-    <li><strong>Other:</strong> Python (for exporting data to Excel), Multer (for file uploads)</li>
-  </ul>
+  <p><strong>Tech Stack:</strong> Java / Go, Spring Boot, MySQL, Redis, Kafka, Git</p>
 </div>
 
 ---
