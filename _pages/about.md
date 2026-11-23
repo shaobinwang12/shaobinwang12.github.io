@@ -230,16 +230,9 @@ I received my master's degree from [Fudan University](https://www.fudan.edu.cn/e
   <div class="exp-header">
     <div>
       <span class="exp-company">Meituan</span>
-      <span class="exp-role">— Backend Development Engineer Intern</span>
     </div>
     <span class="exp-meta">May 2025 – Aug. 2025</span>
   </div>
-  <ul>
-    <li>Participated in the design and development of backend services, writing maintainable and tested code in a large-scale distributed system.</li>
-    <li>Collaborated with cross-functional teams to deliver features end-to-end, from requirement analysis and API design to online deployment.</li>
-    <li>Optimized service performance and reliability, including database query tuning and cache usage.</li>
-  </ul>
-  <p><strong>Tech Stack:</strong> Java / Go, Spring Boot, MySQL, Redis, Kafka, Git</p>
 </div>
 
 ---
