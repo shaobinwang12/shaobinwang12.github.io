@@ -89,17 +89,11 @@ redirect_from:
   }
 
   .sidebar .author__urls {
-    margin-top: 1.6em;
-  }
-
-  .sidebar .author__note div {
-    color: var(--body);
-    font-size: 0.84rem;
-    line-height: 1.65;
+    margin-top: 2em;
   }
 
   .sidebar .author__label {
-    margin: 1.8em 0 0.9em;
+    margin: 0 0 0.9em;
     color: var(--muted);
     font-size: 0.68rem;
     letter-spacing: 0.18em;
@@ -318,7 +312,7 @@ redirect_from:
   .entry .org {
     display: flex;
     align-items: center;
-    gap: 0.5em;
+    gap: 0.6em;
     color: var(--ink);
     font-family: var(--serif);
     font-size: 1.08rem;
@@ -327,8 +321,8 @@ redirect_from:
 
   .entry .org img {
     flex: 0 0 auto;
-    width: 20px;
-    height: 20px;
+    width: 32px;
+    height: 32px;
     object-fit: contain;
   }
 
