@@ -41,6 +41,15 @@ redirect_from:
     padding: 0.9em 1em;
   }
 
+  .masthead .greedy-nav {
+    background: transparent;
+  }
+
+  .masthead .visible-links {
+    margin-right: auto;
+    margin-left: auto;
+  }
+
   .masthead .visible-links a {
     margin: 0 0.95rem;
     padding: 0.4rem 0;
